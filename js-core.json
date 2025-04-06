@@ -1,0 +1,267 @@
+{
+  "enName": "JS Core",
+  "chtName": "迴圈陣列班",
+  "description": "本門課程將會介紹定時器來製作業界常見的廣告效果。用流程控制以進行狀況的判斷及重複的執行。活用陣列方法來達成資料的合併、刪除及篩選。了解目前業界常用的瀏覽器儲存及交換格式。還有前端工程師必備的 API 處理技能及非同步的資料處理。",
+  "src": "js-core.png",
+  "list": [
+    {
+      "name": "輪播相簿展示",
+      "desc": "定時 2 秒置換影像並保持循環。",
+      "src": "1-3-1-swiper.png",
+      "url": "https://demo.f2e.idv.tw/1-3-1-swiper",
+      "cate": "定時函數"
+    },
+    {
+      "name": "輪播相簿展示",
+      "desc": "可控制播放、停止的定時函數。",
+      "src": "1-3-2-swiper.png",
+      "url": "https://demo.f2e.idv.tw/1-3-2-swiper",
+      "cate": "定時函數"
+    },
+    {
+      "name": "輪播相簿展示",
+      "desc": "可控制播放、停止的定時函數。",
+      "src": "1-3-3-swiper.png",
+      "url": "https://demo.f2e.idv.tw/1-3-3-swiper",
+      "cate": "定時函數"
+    },
+    {
+      "name": "輪播相簿展示",
+      "desc": "定時自動移到目標位置，且在滑入、滑出的事件狀態控制暫停與播放。",
+      "src": "1-4-1-swiper.png",
+      "url": "https://demo.f2e.idv.tw/1-4-1-swiper",
+      "cate": "定時函數"
+    },
+    {
+      "name": "輪播相簿展示",
+      "desc": "定時自動移到目標位置，且在滑入、滑出的事件狀態控制暫停與播放，且增加導覽以控制可視位置。",
+      "src": "1-4-2-swiper.png",
+      "url": "https://demo.f2e.idv.tw/1-4-2-swiper",
+      "cate": "定時函數"
+    },
+    {
+      "name": "輪播相簿展示",
+      "desc": "水平、垂直、旋轉輪播。",
+      "src": "1-4-3-swiper.png",
+      "url": "https://demo.f2e.idv.tw/1-4-3-swiper",
+      "cate": "定時函數"
+    },
+    {
+      "name": "時間展示",
+      "desc": "取得 Client 時間並進行畫面的更新。",
+      "src": "3-2-date.png",
+      "url": "https://demo.f2e.idv.tw/3-2-date",
+      "cate": "定時函數"
+    },
+    {
+      "name": "時間控制畫面",
+      "desc": "以網址參數來控制畫面。",
+      "src": "3-3-activity.png",
+      "url": "https://demo.f2e.idv.tw/3-3-activity",
+      "cate": "定時函數"
+    },
+    {
+      "name": "互動式倒數展示",
+      "desc": "取得活動期間內的時間與定時函數進行倒數。",
+      "src": "3-4-countdown.png",
+      "url": "https://demo.f2e.idv.tw/3-4-countdown",
+      "cate": "定時函數"
+    },
+    {
+      "name": "翻牌的時間展示",
+      "desc": "定時套用與移除 CSS 類別。",
+      "src": "3-5-flip.png",
+      "url": "https://demo.f2e.idv.tw/3-5-flip",
+      "cate": "定時函數"
+    },
+    {
+      "name": "鍵盤控制",
+      "desc": "鍵盤事件與 switch 判斷。",
+      "src": "2-3-switch.png",
+      "url": "https://demo.f2e.idv.tw/2-3-switch",
+      "cate": "流程控制"
+    },
+    {
+      "name": "控制多個網頁元素",
+      "desc": "迴圈與選取器進行多個元素的選取並加入事件監聽。",
+      "src": "3-2-for-click.png",
+      "url": "https://demo.f2e.idv.tw/3-2-for-click",
+      "cate": "流程控制"
+    },
+    {
+      "name": "調換影像",
+      "desc": "迴圈與選取器進行多個元素的選取並加入事件監聽。",
+      "src": "3-3-for-swapImage.png",
+      "url": "https://demo.f2e.idv.tw/3-3-for-swapImage",
+      "cate": "流程控制"
+    },
+    {
+      "name": "彈出式子選單",
+      "desc": "迴圈與選取器進行多個元素的選取並加入事件監聽，並判斷條件成立，進行顯示；不成立，則隱藏。",
+      "src": "5-3-for-dropdown.png",
+      "url": "https://demo.f2e.idv.tw/5-3-for-dropdown",
+      "cate": "流程控制"
+    },
+    {
+      "name": "頁籤展示",
+      "desc": "迴圈與選取器進行多個元素的選取並加入事件監聽，取得新、舊值進行網頁渲染。",
+      "src": "6-3-for-tab.png",
+      "url": "https://demo.f2e.idv.tw/6-3-for-tab",
+      "cate": "流程控制"
+    },
+    {
+      "name": "疊(迭)代渲染",
+      "desc": "迴圈進行字串組合並渲染到畫面上。",
+      "src": "1-1-template.png",
+      "url": "https://demo.f2e.idv.tw/1-1-template",
+      "cate": "陣列與物件"
+    },
+    {
+      "name": "疊(迭)代渲染",
+      "desc": "迴圈進行字串組合並渲染到畫面上。",
+      "src": "1-2-template.png",
+      "url": "https://demo.f2e.idv.tw/1-2-template",
+      "cate": "陣列與物件"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "迴圈進行字串組合並渲染到畫面上，並採用 Event Object 來增進程式的效率。",
+      "src": "2-2-template-click.png",
+      "url": "https://demo.f2e.idv.tw/2-2-template-click",
+      "cate": "陣列與物件"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "迴圈進行字串組合並渲染到畫面上，並採用 Event Object 來增進程式的效率。自製燈箱效果，可用鍵盤方向左、右、Esc 鍵，以進行燈箱的控制。",
+      "src": "3-modal.png",
+      "url": "https://demo.f2e.idv.tw/3-modal",
+      "cate": "陣列與物件"
+    },
+    {
+      "name": "待辦事項",
+      "desc": "新增、讀取、移除 localStorage 中的使用者資料。",
+      "src": "3-2-todolist-simple.png",
+      "url": "https://demo.f2e.idv.tw/3-2-todolist-simple",
+      "cate": "瀏覽器資料存取"
+    },
+    {
+      "name": "待辦事項",
+      "desc": "新增、讀取、移除 localStorage 中的使用者資料並篩選。",
+      "src": "3-3-todolist-hard.png",
+      "url": "https://demo.f2e.idv.tw/3-3-todolist-hard",
+      "cate": "瀏覽器資料存取"
+    },
+    {
+      "name": "訂單流程展示",
+      "desc": "在非同步的狀態中，確保指定順序的執行。",
+      "src": "5-2-try-catch.png",
+      "url": "https://demo.f2e.idv.tw/5-2-try-catch",
+      "cate": "非同步操作"
+    },
+    {
+      "name": "會員資料管理",
+      "desc": "使用 RESTful API 與後端進行資料溝通，以進行資料的新增、讀取、移除。",
+      "src": "5-fetch-post.png",
+      "url": "https://demo.f2e.idv.tw/5-fetch-post",
+      "cate": "非同步操作"
+    },
+    {
+      "name": "會員資料管理",
+      "desc": "使用 RESTful API 與後端進行資料溝通，以進行資料的新增、讀取、移除。",
+      "src": "6-1-fetch-crd.png",
+      "url": "https://demo.f2e.idv.tw/6-1-fetch-crd",
+      "cate": "非同步操作"
+    },
+    {
+      "name": "會員資料管理",
+      "desc": "使用 RESTful API 與後端進行資料溝通，以進行資料的新增、更新、讀取、移除。",
+      "src": "6-2-fetch-curd.png",
+      "url": "https://demo.f2e.idv.tw/6-2-fetch-curd",
+      "cate": "非同步操作"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "依資料的特性進行分組排序與互動處理。",
+      "src": "2-2-modal.png",
+      "url": "https://demo.f2e.idv.tw/2-2-modal",
+      "cate": "進階資料處理"
+    },
+    {
+      "name": "分頁製作",
+      "desc": "非同步處理、資料分割與互動處理。",
+      "src": "3-1-food.png",
+      "url": "https://demo.f2e.idv.tw/3-1-food",
+      "cate": "進階資料處理"
+    },
+    {
+      "name": "資料篩選",
+      "desc": "非同步處理、資料篩選與互動處理。",
+      "src": "3-2-food.png",
+      "url": "https://demo.f2e.idv.tw/3-2-food",
+      "cate": "進階資料處理"
+    },
+
+
+
+
+
+
+
+    {
+      "name": "捲入動畫",
+      "desc": "事件與樣式的組合技。",
+      "src": "week3_scroll.png",
+      "url": "https://demo.f2e.idv.tw/week3_scroll",
+      "cate": "事件"
+    },
+    {
+      "name": "線上點餐",
+      "desc": "進階狀態管理。",
+      "src": "week3_function.png",
+      "url": "https://demo.f2e.idv.tw/week3_function",
+      "cate": "函式"
+    },
+    {
+      "name": "相簿效果",
+      "desc": "事件、狀態、計數器的組合技。",
+      "src": "week3_album.png",
+      "url": "https://demo.f2e.idv.tw/week3_album",
+      "cate": "事件"
+    },
+    {
+      "name": "相簿效果",
+      "desc": "事件、狀態、計數器的組合技。",
+      "src": "week3_slide_carousel.png",
+      "url": "https://demo.f2e.idv.tw/week3_slide_carousel",
+      "cate": "事件"
+    },
+    {
+      "name": "動態載入",
+      "desc": "動態載入與資料的渲染。",
+      "src": "week4_fetch.png",
+      "url": "https://demo.f2e.idv.tw/week4_fetch",
+      "cate": "非同步操作"
+    },
+    {
+      "name": "動態載入",
+      "desc": "動態載入與資料的渲染。",
+      "src": "week4_fetch_process.png",
+      "url": "https://demo.f2e.idv.tw/week4_fetch_process",
+      "cate": "非同步操作"
+    },
+    {
+      "name": "廣告控制",
+      "desc": "控制期間廣告。",
+      "src": "week4_remove_ad.png",
+      "url": "https://demo.f2e.idv.tw/week4_remove_ad",
+      "cate": "瀏覽器資料存取"
+    },
+    {
+      "name": "推薦廣告",
+      "desc": "控制期間與類型廣告。",
+      "src": "week4_recommend.png",
+      "url": "https://demo.f2e.idv.tw/week4_recommend",
+      "cate": "瀏覽器資料存取"
+    }
+  ]
+}

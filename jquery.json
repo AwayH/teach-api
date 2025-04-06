@@ -1,0 +1,99 @@
+{
+  "enName": "jQuery",
+  "chtName": "程式語言",
+  "description": "jQuery 是一套跨瀏覽器的 JavaScript 函式庫，簡化 HTML 與 JavaScript 之間的操作。",
+  "src": "jquery.png",
+  "list": [
+    {
+      "name": "顯示、隱藏",
+      "desc": "指定元素進行顯示、隱藏效果。",
+      "src": "20-2-1-effect.png",
+      "url": "https://demo.f2e.idv.tw/20-2-1-effect",
+      "cate": "效果"
+    },
+    {
+      "name": "滑動",
+      "desc": "指定元素進行高度的變化。",
+      "src": "20-2-2-effect.png",
+      "url": "https://demo.f2e.idv.tw/20-2-2-effect",
+      "cate": "效果"
+    },
+    {
+      "name": "淡入、淡出",
+      "desc": "指定元素進行透明度調整。",
+      "src": "20-2-3-effect.png",
+      "url": "https://demo.f2e.idv.tw/20-2-3-effect",
+      "cate": "效果"
+    },
+    {
+      "name": "淡入、淡出",
+      "desc": "指定元素進行透明度調整。",
+      "src": "20-3-2-effect.png",
+      "url": "https://demo.f2e.idv.tw/20-3-2-effect",
+      "cate": "效果"
+    },
+    {
+      "name": "滑入與滑出行為",
+      "desc": "指定元素進行高度的變化，並清除佇列動畫與結束狀態。",
+      "src": "20-4-hover.png",
+      "url": "https://demo.f2e.idv.tw/20-4-hover",
+      "cate": "行為"
+    },
+    {
+      "name": "動態修改樣式",
+      "desc": "常見的字級調整。",
+      "src": "20-5-css.png",
+      "url": "https://demo.f2e.idv.tw/20-5-css",
+      "cate": "樣式"
+    },
+    {
+      "name": "動態修改樣式",
+      "desc": "動態切換版型。",
+      "src": "20-6-addClass.png",
+      "url": "https://demo.f2e.idv.tw/20-6-addClass",
+      "cate": "樣式"
+    },
+    {
+      "name": "動畫",
+      "desc": "基本控制。",
+      "src": "20-7-2-animate.png",
+      "url": "https://demo.f2e.idv.tw/20-7-2-animate",
+      "cate": "動畫"
+    },
+    {
+      "name": "DOM 週遊",
+      "desc": "DOM 週遊。",
+      "src": "23-4-traversal.png",
+      "url": "https://demo.f2e.idv.tw/23-4-traversal",
+      "cate": "遍歷"
+    },
+    {
+      "name": "遍歷指定元素",
+      "desc": "Mac 選單。",
+      "src": "23-5-2-next-prev.png",
+      "url": "https://demo.f2e.idv.tw/23-5-2-next-prev",
+      "cate": "遍歷"
+    },
+    {
+      "name": "滑動網頁",
+      "desc": "遍歷和動畫的組合技。",
+      "src": "23-6-2-eq.png",
+      "url": "https://demo.f2e.idv.tw/23-6-2-eq",
+      "cate": "動畫"
+    },
+    {
+      "name": "手風琴摺疊效果",
+      "desc": "手風琴摺疊效果。",
+      "src": "23-7-1-find.png",
+      "url": "https://demo.f2e.idv.tw/23-7-1-find",
+      "cate": "遍歷"
+    },
+    {
+      "name": "捲入動畫",
+      "desc": "事件與樣式的組合技。",
+      "src": "23-8-4-scroll.png",
+      "url": "https://demo.f2e.idv.tw/23-8-4-scroll",
+      "cate": "事件"
+    }
+  ]
+}

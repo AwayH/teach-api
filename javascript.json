@@ -1,0 +1,148 @@
+{
+  "enName": "JavaScript",
+  "chtName": "新手村",
+  "description": "一種進階、直譯的程式語言，支援物件導向、指令式，以及函式語言的程式設計。本門課程著重在 DOM、事件的處理，並深入淺出的介紹變數觀念及其應用的方式。",
+  "src": "javascript.png",
+  "list": [
+    {
+      "name": "相簿展示",
+      "desc": "點選左側縮圖，即顯示對應的大圖。",
+      "src": "event-1.png",
+      "url": "https://demo.f2e.idv.tw/event-1",
+      "cate": "事件"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "點選左側按鈕，即顯示對應的特色影像。",
+      "src": "event-2.png",
+      "url": "https://demo.f2e.idv.tw/event-2",
+      "cate": "事件"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "滑入右側按鈕，即顯示對應的特色影像。",
+      "src": "event-3.png",
+      "url": "https://demo.f2e.idv.tw/event-3",
+      "cate": "事件"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "游標滑入 icon 後，即顯示對應的局部圖片。",
+      "src": "dom-1.png",
+      "url": "https://demo.f2e.idv.tw/dom-1",
+      "cate": "DOM"
+    },
+    {
+      "name": "自製燈箱效果",
+      "desc": "點選縮圖後，即出現蓋版且顯示對應的圖片，點選蓋版區或 ESC 鍵，即關閉蓋版。",
+      "src": "dom-2.png",
+      "url": "https://demo.f2e.idv.tw/dom-2",
+      "cate": "DOM"
+    },
+    {
+      "name": "互動式字級調整",
+      "desc": "畫面上，有標示的巨、大、中、小按鈕，點選後，可為內容區的文字進行級數轉換。",
+      "src": "dom-3.png",
+      "url": "https://demo.f2e.idv.tw/dom-3",
+      "cate": "DOM"
+    },
+    {
+      "name": "顯示效果",
+      "desc": "點選課程名稱，即顯示詳細內容。",
+      "src": "dom-4.png",
+      "url": "https://demo.f2e.idv.tw/dom-4",
+      "cate": "DOM"
+    },
+    {
+      "name": "互動式版型切換",
+      "desc": "點選 Icon，可切換三種不同版型。",
+      "src": "dom-5.png",
+      "url": "https://demo.f2e.idv.tw/dom-5",
+      "cate": "DOM"
+    },
+    {
+      "name": "互動式頁籤切換",
+      "desc": "滑入目標的頁籤，即顯示對應目標的內容。",
+      "src": "dom-6.png",
+      "url": "https://demo.f2e.idv.tw/dom-6",
+      "cate": "DOM"
+    },
+    {
+      "name": "互動式頁籤切換",
+      "desc": "滑入目標的頁籤，即顯示對應目標的內容。",
+      "src": "dom-7.png",
+      "url": "https://demo.f2e.idv.tw/dom-7",
+      "cate": "DOM"
+    },
+    {
+      "name": "隨機影像展示",
+      "desc": "載入畫面後，影像隨機產生。",
+      "src": "value-1.png",
+      "url": "https://demo.f2e.idv.tw/value-1",
+      "cate": "變數"
+    },
+    {
+      "name": "相簿展示",
+      "desc": "點選縮圖，利用流程控制顯示對應的影像。",
+      "src": "value-2.png",
+      "url": "https://demo.f2e.idv.tw/value-2",
+      "cate": "變數"
+    },
+    {
+      "name": "循環相簿展示",
+      "desc": "點選影像即顯示下一張影像，利用流程控制達成循環效果。",
+      "src": "value-3.png",
+      "url": "https://demo.f2e.idv.tw/value-3",
+      "cate": "變數"
+    },
+    {
+      "name": "數量控制",
+      "desc": "利用變數及流程控制來設定限制數量。",
+      "src": "value-4.png",
+      "url": "https://demo.f2e.idv.tw/value-4",
+      "cate": "變數"
+    },
+    {
+      "name": "不重複地數字顯示",
+      "desc": "使用亂數與變數來限制一定範圍內的數字，加上流程控制可達成不重複的數字。",
+      "src": "value-5.png",
+      "url": "https://demo.f2e.idv.tw/value-5",
+      "cate": "變數"
+    },
+    {
+      "name": "互動式相簿展示",
+      "desc": "一般網站上常見的廣告效果。點選下方的數字按鈕，上方的廣告影像即滑動到對應的位置。",
+      "src": "value-6.png",
+      "url": "https://demo.f2e.idv.tw/value-6",
+      "cate": "變數"
+    },
+    {
+      "name": "互動式相簿展示",
+      "desc": "連續點擊下方的方向鈕，以完成接續影像。",
+      "src": "value-7.png",
+      "url": "https://demo.f2e.idv.tw/value-7",
+      "cate": "變數"
+    },
+    {
+      "name": "隨機影像展示",
+      "desc": "產生介於 0 ~ 4 之間的隨機數字，並指定於陣列的索引元素，再渲染影像內容。",
+      "src": "reference-1.png",
+      "url": "https://demo.f2e.idv.tw/reference-1",
+      "cate": "複合變數"
+    },
+    {
+      "name": "循環相簿展示",
+      "desc": "點擊的循環影像及互動導覽。",
+      "src": "reference-2.png",
+      "url": "https://demo.f2e.idv.tw/reference-2",
+      "cate": "複合變數"
+    },
+    {
+      "name": "循環相簿展示",
+      "desc": "點擊的循環影像及互動導覽。",
+      "src": "reference-3.png",
+      "url": "https://demo.f2e.idv.tw/reference-3",
+      "cate": "複合變數"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "enName": "Vue",
+  "chtName": "程式設計",
+  "description": "用於建立使用者介面的開源 JavaScript 框架，也是一個建立單頁應用的 Web 應用框架。",
+  "src": "vue.png",
+  "list": [
+    {
+      "name": "列表渲染",
+      "desc": "動態載入與渲染。",
+      "src": "week5_vue_for_easy.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_for_easy",
+      "cate": "v-for"
+    },
+    {
+      "name": "列表渲染",
+      "desc": "動態載入與渲染。",
+      "src": "week5_vue_for_easy_2.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_for_easy_2",
+      "cate": "v-for"
+    },
+    {
+      "name": "列表渲染",
+      "desc": "動態載入與渲染。",
+      "src": "week5_vue_for_medium.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_for_medium",
+      "cate": "v-for"
+    },
+    {
+      "name": "基本元件",
+      "desc": "動態載入與基本的元件使用。",
+      "src": "week5_vue_component_1.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_component_1",
+      "cate": "元件"
+    },
+    {
+      "name": "元件的資料傳遞",
+      "desc": "Props 傳入元件。",
+      "src": "week5_vue_component_2.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_component_2",
+      "cate": "元件"
+    },
+    {
+      "name": "元件的資料傳遞",
+      "desc": "進階 Props 傳入元件與資料的型別驗證。",
+      "src": "week5_vue_reuse_1.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_reuse_1",
+      "cate": "元件"
+    },
+    {
+      "name": "元件包裝",
+      "desc": "元件的複用。",
+      "src": "week5_vue_reuse_2.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_reuse_2",
+      "cate": "元件"
+    },
+    {
+      "name": "元件包裝",
+      "desc": "元件複用與資料的內、外傳遞。",
+      "src": "week5_vue_passing.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_passing",
+      "cate": "元件"
+    },
+    {
+      "name": "基本路由管理",
+      "desc": "",
+      "src": "week5_vue_router_1.png",
+      "url": "https://demo.f2e.idv.tw/week5_vue_router_1",
+      "cate": "路由"
+    }
+  ]
+}

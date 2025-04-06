@@ -1,0 +1,393 @@
+{
+  "enName": "CSS",
+  "chtName": "階層式樣式表",
+  "description": "由 W3C 定義和維護，用來為結構化文件添加樣式的電腦語言，CSS 最重要的目標是將檔案的內容與顯示分隔開來。",
+  "src": "css.png",
+  "list": [
+    {
+      "name": "外部引入",
+      "desc": "獨立的 CSS 樣式檔案，可與多個網頁檔共用。",
+      "src": "3-1-external.png",
+      "url": "https://demo.f2e.idv.tw/3-1-external",
+      "cate": "CSS 撰寫位置"
+    },
+    {
+      "name": "標籤（元素）選取器",
+      "desc": "選取所有符合指定標籤的元素。",
+      "src": "3-4-element.png",
+      "url": "https://demo.f2e.idv.tw/3-4-element",
+      "cate": "選取器"
+    },
+    {
+      "name": "類別選取器",
+      "desc": "選取所有符合指定 class 屬性值的元素。因可重複使用，故使用率是最高的，常用於模組化的擴充。",
+      "src": "4-2-class.png",
+      "url": "https://demo.f2e.idv.tw/4-2-class",
+      "cate": "選取器"
+    },
+    {
+      "name": "後代選取器",
+      "desc": "選取某個元素後代的元素。使用後代選取器，可減少在 HTML 重複嵌套 class。但也要兼顧到效率，建議後代選取器以兩、三層為優。",
+      "src": "4-3-2-descendant.png",
+      "url": "https://demo.f2e.idv.tw/4-3-2-descendant",
+      "cate": "選取器"
+    },
+    {
+      "name": "屬性選取器",
+      "desc": "選取所有符合指定屬性的元素。效率較差，建議少用。",
+      "src": "4-4-attribute.png",
+      "url": "https://demo.f2e.idv.tw/4-4-attribute",
+      "cate": "選取器"
+    },
+    {
+      "name": "偽類選取器",
+      "desc": "依據狀況或狀態來選取元素（按鈕）。",
+      "src": "4-5-2-pseudo.png",
+      "url": "https://demo.f2e.idv.tw/4-5-2-pseudo",
+      "cate": "選取器"
+    },
+    {
+      "name": "偽類選取器",
+      "desc": "依據狀況或狀態來選取元素（影像）。",
+      "src": "4-5-3-pseudo.png",
+      "url": "https://demo.f2e.idv.tw/4-5-3-pseudo",
+      "cate": "選取器"
+    },
+    {
+      "name": "重新定義寬度",
+      "desc": "利用 box-sizing 重新定義寬、高度範圍，更快速、直觀。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/4-6-boxModel",
+      "cate": "區塊模型"
+    },
+    {
+      "name": "背景固定",
+      "desc": "決定背景圖片是否要跟著滑鼠滾動而上、下移動。",
+      "src": "5-2-fixed.png",
+      "url": "https://demo.f2e.idv.tw/5-2-fixed",
+      "cate": "背景"
+    },
+    {
+      "name": "神奇定位效果",
+      "desc": "背景定位與隱藏文字的組合技。使用背景的定位技巧，以降低對 Server 的請求。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/5-3-2-position",
+      "cate": "背景"
+    },
+    {
+      "name": "背景定位按鈕",
+      "desc": "偽類與背景定位的組合技。",
+      "src": "5-4-positionAndPseudo.png",
+      "url": "https://demo.f2e.idv.tw/5-4-positionAndPseudo",
+      "cate": "背景"
+    },
+    {
+      "name": "背景定位按鈕",
+      "desc": "偽類與背景定位的組合技。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/6-2-position",
+      "cate": "背景"
+    },
+    {
+      "name": "選單置中",
+      "desc": "了解 inline-block 的特性，並善用其優點。",
+      "src": "6-4-1-alignCenter.png",
+      "url": "https://demo.f2e.idv.tw/6-4-1-alignCenter",
+      "cate": "置中"
+    },
+    {
+      "name": "選單置中",
+      "desc": "了解 inline-block 的特性，並善用其優點。",
+      "src": "6-4-2-alignCenter.png",
+      "url": "https://demo.f2e.idv.tw/6-4-2-alignCenter",
+      "cate": "置中"
+    },
+    {
+      "name": "兩欄式",
+      "desc": "基本兩欄式的排版技巧大公開。",
+      "src": "7-6-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/7-6-2-instance",
+      "cate": "排版"
+    },
+    {
+      "name": "兩欄式",
+      "desc": "基本兩欄式的排版技巧大公開。",
+      "src": "7-7-blog.png",
+      "url": "https://demo.f2e.idv.tw/7-7-blog",
+      "cate": "排版"
+    },
+    {
+      "name": "無中生有",
+      "desc": "解說偽元素的特性及活用該特性。",
+      "src": "8-2-6-text.png",
+      "url": "https://demo.f2e.idv.tw/8-2-6-text",
+      "cate": "偽元素"
+    },
+    {
+      "name": "反轉版型",
+      "desc": "善用 class 製作可快速調整左、右交錯的版型。",
+      "src": "8-3-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/8-3-2-instance",
+      "cate": "排版"
+    },
+    {
+      "name": "三欄式",
+      "desc": "基本三欄式的排版技巧大公開。",
+      "src": "9-5-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/9-5-2-instance",
+      "cate": "排版"
+    },
+    {
+      "name": "嵌入地圖",
+      "desc": "學習在網頁中引入第三方資源。使用常見的 Google Map。",
+      "src": "9-6-1-embedMap.png",
+      "url": "https://demo.f2e.idv.tw/9-6-1-embedMap",
+      "cate": "置入媒體"
+    },
+    {
+      "name": "嵌入視訊",
+      "desc": "學習在網頁中引入第三方資源。使用常見的 YouTuBe。",
+      "src": "9-6-2-embedMedia.png",
+      "url": "https://demo.f2e.idv.tw/9-6-2-embedMedia",
+      "cate": "置入媒體"
+    },
+    {
+      "name": "定位器：絕對",
+      "desc": "使用絕對定位器將 UI 排在指定位置上，不再是死板板的水平排列。",
+      "src": "10-1-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/10-1-2-instance",
+      "cate": "定位"
+    },
+    {
+      "name": "定位器：絕對",
+      "desc": "使用絕對定位器配合世界地圖，更貼切的應用發揮。",
+      "src": "10-1-3-instance.png",
+      "url": "https://demo.f2e.idv.tw/10-1-3-instance",
+      "cate": "定位"
+    },
+    {
+      "name": "定位器：固定",
+      "desc": "固定廣告。",
+      "src": "10-2-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/10-2-2-instance",
+      "cate": "定位"
+    },
+    {
+      "name": "定位器：固定",
+      "desc": "固定導覽列。",
+      "src": "10-2-3-instance.png",
+      "url": "https://demo.f2e.idv.tw/10-2-3-instance",
+      "cate": "定位"
+    },
+    {
+      "name": "下拉式選單",
+      "desc": "滑入即顯示子層選單",
+      "src": "10-3-1-dropdown.png",
+      "url": "https://demo.f2e.idv.tw/10-3-1-dropdown",
+      "cate": "定位"
+    },
+    {
+      "name": "下拉式選單",
+      "desc": "滑入即顯示子層選單",
+      "src": "10-3-2-dropdown.png",
+      "url": "https://demo.f2e.idv.tw/10-3-2-dropdown",
+      "cate": "定位"
+    },
+    {
+      "name": "下拉式選單",
+      "desc": "滑入即顯示同層影像。",
+      "src": "10-3-3-showHide.png",
+      "url": "https://demo.f2e.idv.tw/10-3-3-showHide",
+      "cate": "定位"
+    },
+    {
+      "name": "CSS3 陰影",
+      "desc": "滑入與陰影的組合技。",
+      "src": "11-1-3-instance.png",
+      "url": "https://demo.f2e.idv.tw/11-1-3-instance",
+      "cate": "陰影"
+    },
+    {
+      "name": "CSS3 陰影",
+      "desc": "陰影與立體。",
+      "src": "11-1-4-instance.png",
+      "url": "https://demo.f2e.idv.tw/11-1-4-instance",
+      "cate": "陰影"
+    },
+    {
+      "name": "模組化影像",
+      "desc": "模組化影像。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/11-2-radius",
+      "cate": "模組化"
+    },
+    {
+      "name": "使用 CSS 繪圖",
+      "desc": "使用 CSS 繪圖。",
+      "src": "11-3-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/11-3-2-instance",
+      "cate": "圓角"
+    },
+    {
+      "name": "奇、偶選取",
+      "desc": "常見的表格樣式。",
+      "src": "11-5-2-even.png",
+      "url": "https://demo.f2e.idv.tw/11-5-2-even",
+      "cate": "選取器"
+    },
+    {
+      "name": "奇、偶選取",
+      "desc": "篩選置換背景影像。",
+      "src": "11-5-3-odd.png",
+      "url": "https://demo.f2e.idv.tw/11-5-3-odd",
+      "cate": "選取器"
+    },
+    {
+      "name": "彈性效果",
+      "desc": "八種動畫型態。",
+      "src": "12-1-2-function.png",
+      "url": "https://demo.f2e.idv.tw/12-1-2-function",
+      "cate": "動畫特效"
+    },
+    {
+      "name": "互動廣告",
+      "desc": "偽類與轉場的組合技。",
+      "src": "12-1-3-adv.png",
+      "url": "https://demo.f2e.idv.tw/12-1-3-adv",
+      "cate": "動畫特效"
+    },
+    {
+      "name": "互動的文字",
+      "desc": "偽類與轉場的組合技。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/12-1-4-text",
+      "cate": "動畫特效"
+    },
+    {
+      "name": "互動的選單",
+      "desc": "偽類與轉場的組合技。",
+      "src": "12-1-5-menu.png",
+      "url": "https://demo.f2e.idv.tw/12-1-5-menu",
+      "cate": "動畫特效"
+    },
+    {
+      "name": "OOCSS",
+      "desc": "細分 Class 的功用，將需要的版型組裝起來。",
+      "src": "15-2-build.png",
+      "url": "https://demo.f2e.idv.tw/15-2-build",
+      "cate": "模組化"
+    },
+    {
+      "name": "OOCSS",
+      "desc": "為單調的表格加上視覺、互動模組。",
+      "src": "15-3-table.png",
+      "url": "https://demo.f2e.idv.tw/15-3-table",
+      "cate": "模組化"
+    },
+    {
+      "name": "OOCSS",
+      "desc": "強化按鈕模組。",
+      "src": "15-4-btn.png",
+      "url": "https://demo.f2e.idv.tw/15-4-btn",
+      "cate": "模組化"
+    },
+    {
+      "name": "OOCSS",
+      "desc": "模組化情境文字。",
+      "src": "15-5-text.png",
+      "url": "https://demo.f2e.idv.tw/15-5-text",
+      "cate": "模組化"
+    },
+    {
+      "name": "SMACSS",
+      "desc": "網頁的基本樣式。",
+      "src": "16-2-base.png",
+      "url": "https://demo.f2e.idv.tw/16-2-base",
+      "cate": "模組化"
+    },
+    {
+      "name": "SMACSS",
+      "desc": "網頁的版型佈局。",
+      "src": "16-3-layout.png",
+      "url": "https://demo.f2e.idv.tw/16-3-layout",
+      "cate": "模組化"
+    },
+    {
+      "name": "SMACSS",
+      "desc": "模組的維護、擴充與複用性。",
+      "src": "16-4-module.png",
+      "url": "https://demo.f2e.idv.tw/16-4-module",
+      "cate": "模組化"
+    },
+    {
+      "name": "SMACSS",
+      "desc": "為網頁定義獨立的風格。",
+      "src": "16-7-theme.png",
+      "url": "https://demo.f2e.idv.tw/16-7-theme",
+      "cate": "模組化"
+    },
+    {
+      "name": "BEM",
+      "desc": "區塊、元素、修飾子的區分與版型練習。",
+      "src": "17-2-brand.png",
+      "url": "https://demo.f2e.idv.tw/17-2-brand",
+      "cate": "模組化"
+    },
+    {
+      "name": "BEM",
+      "desc": "區塊、元素、修飾子的區分與版型練習。",
+      "src": "17-4-tab.png",
+      "url": "https://demo.f2e.idv.tw/17-4-tab",
+      "cate": "模組化"
+    },
+    {
+      "name": "BEM",
+      "desc": "區塊、元素、修飾子的區分與版型練習。",
+      "src": "17-5-1-instance.png",
+      "url": "https://demo.f2e.idv.tw/17-5-1-instance",
+      "cate": "模組化"
+    },
+    {
+      "name": "BEM",
+      "desc": "進階模組化。",
+      "src": "17-5-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/17-5-2-instance",
+      "cate": "模組化"
+    },
+    {
+      "name": "RWD 中斷點",
+      "desc": "中斷點的設置與規劃。",
+      "src": "18-2-2-mediaquery.png",
+      "url": "https://demo.f2e.idv.tw/18-2-2-mediaquery",
+      "cate": "響應式設計"
+    },
+    {
+      "name": "RWD 中斷點",
+      "desc": "中斷點的設置與規劃。",
+      "src": "18-3-instance.png",
+      "url": "https://demo.f2e.idv.tw/18-3-instance",
+      "cate": "響應式設計"
+    },
+    {
+      "name": "RWD 中斷點",
+      "desc": "中斷點的設置與規劃。",
+      "src": "18-4-instance.png",
+      "url": "https://demo.f2e.idv.tw/18-4-instance",
+      "cate": "響應式設計"
+    },
+    {
+      "name": "Flex",
+      "desc": "RWD 與模組化的組合技。",
+      "src": "19-2-instance.png",
+      "url": "https://demo.f2e.idv.tw/19-2-instance",
+      "cate": "響應式設計"
+    },
+    {
+      "name": "Flex",
+      "desc": "RWD 與模組化的組合技及 order 的使用。",
+      "src": "19-3-addpdlist.png",
+      "url": "https://demo.f2e.idv.tw/19-3-addpdlist",
+      "cate": "響應式設計"
+    }
+  ]
+}

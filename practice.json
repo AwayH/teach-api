@@ -1,0 +1,43 @@
+{
+  "enName": "Practice",
+  "chtName": "專題實作",
+  "description": "實作與業界接軌的案例",
+  "src": "practice.png",
+  "list": [
+    {
+      "name": "課程介紹",
+      "desc": "符合語義化與 SEO 的標準化切版，也同時能在各裝置運行的響應式設計，並帶入 jQuery 與 CSS 的動畫使用。",
+      "src": "practice-intro.png",
+      "url": "https://tools.f2e.idv.tw/resume/",
+      "cate": "Landing Page"
+    },
+    {
+      "name": "iCheck 美妝好朋友",
+      "desc": "符合語義化與 SEO 的標準化切版，也同時能在各裝置運行的響應式設計，並帶入 jQuery 與 CSS 的動畫使用。",
+      "src": "practice-icheck.png",
+      "url": "https://www.icheckapp.com.tw/",
+      "cate": "Landing Page"
+    },
+    {
+      "name": "Adobe Demo",
+      "desc": "符合語義化與 SEO 的標準化切版，並帶入 jQuery 與 CSS 的動畫使用，加入 Fancybox 凸顯展示內容。",
+      "src": "practice-adobe.png",
+      "url": "https://demo.f2e.idv.tw/adobe",
+      "cate": "Web site"
+    },
+    {
+      "name": "癮咖啡",
+      "desc": "符合語義化與 SEO 的標準化切版，也同時能在各裝置運行的響應式設計，內容以 jQuery 進行互動效果及 CSS 模組化觀念為主。",
+      "src": "practice-drink.png",
+      "url": "https://demo.f2e.idv.tw/drink",
+      "cate": "Web site"
+    },
+    {
+      "name": "WE",
+      "desc": "符合語義化與 SEO 的標準化切版，也同時能在各裝置運行的響應式設計。",
+      "src": "practice-we.png",
+      "url": "https://demo.f2e.idv.tw/we",
+      "cate": "Web site"
+    }
+  ]
+}

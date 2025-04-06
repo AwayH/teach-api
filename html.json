@@ -1,0 +1,64 @@
+{
+  "enName": "HTML",
+  "chtName": "超文本標記語言",
+  "description": "用於建立網頁的標準標記語言。常與 CSS、JavaScript 一起被眾多網站用於設計網頁、網頁應用程式以及行動應用程式的使用者介面。",
+  "src": "html.png",
+  "list": [
+    {
+      "name": "內部連結",
+      "desc": "同一網站內，網頁之間的相互連結。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/1-1-internal",
+      "cate": "連結"
+    },
+    {
+      "name": "外部連結",
+      "desc": "連結到網站以外的地方，通常會另開新分頁。",
+      "src": "",
+      "url": "https://demo.f2e.idv.tw/1-2-external",
+      "cate": "連結"
+    },
+    {
+      "name": "錨點連結",
+      "desc": "同一個網頁內的連結。常用在網頁內過高的狀態。",
+      "src": "1-3-anchor.png",
+      "url": "https://demo.f2e.idv.tw/1-3-anchor",
+      "cate": "連結"
+    },
+    {
+      "name": "檔案連結",
+      "desc": "連結到指定檔案，常用在給使用者的下載連結。",
+      "src": "1-4-file.png",
+      "url": "https://demo.f2e.idv.tw/1-4-file",
+      "cate": "連結"
+    },
+    {
+      "name": "空連結",
+      "desc": "在開發過程中，若無明確的連結，可先用空連結來替代，方便與業主或 Team work 溝通。",
+      "src": "1-5-empty.png",
+      "url": "https://demo.f2e.idv.tw/1-5-empty",
+      "cate": "連結"
+    },
+    {
+      "name": "電子郵件連結",
+      "desc": "讓使用者點擊連結時可以自動開啟系統的郵件程式來寫信。",
+      "src": "1-6-mail.png",
+      "url": "https://demo.f2e.idv.tw/1-6-mail",
+      "cate": "連結"
+    },
+    {
+      "name": "表格排版",
+      "desc": "使用 Ps 切片，並利用 Dw 中的圖形化介面來完成簡單的排版。",
+      "src": "1-7-edm.png",
+      "url": "https://demo.f2e.idv.tw/1-7-edm",
+      "cate": "EMD"
+    },
+    {
+      "name": "HTML 標籤的使用",
+      "desc": "認識常用的標籤有哪些？並帶入 SEO 與標籤語義化的觀念",
+      "src": "2-1-html.png",
+      "url": "https://demo.f2e.idv.tw/2-1-html",
+      "cate": "HTML"
+    }
+  ]
+}
